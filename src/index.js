@@ -11,7 +11,7 @@ const style = {
 };
 
 const ZwIcon = ({ icon, ...props }) => {
-  const iconPath = Icons[icon].path;
+  const iconPath = Icons[icon];
   const iconViewBox = "0 0 24 24";
 
   const attributes = { ...props };

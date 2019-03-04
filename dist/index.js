@@ -35,7 +35,7 @@ var ZwIcon = function ZwIcon(_ref) {
   var icon = _ref.icon,
       props = (0, _objectWithoutProperties3.default)(_ref, ["icon"]);
 
-  var iconPath = _icons2.default[icon].path;
+  var iconPath = _icons2.default[icon];
   var iconViewBox = "0 0 24 24";
 
   var attributes = (0, _extends3.default)({}, props);
