@@ -1,0 +1,25 @@
+{
+  "name": "react-zwicon",
+  "version": "0.0.1",
+  "description": "ZwIcon for ReactJS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkardas/React-ZwIcon.git"
+  },
+  "keywords": [
+    "Icon",
+    "Svg",
+    "ZwIcon",
+    "React"
+  ],
+  "author": "Aykut Kardaş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aykutkardas/React-ZwIcon/issues"
+  },
+  "homepage": "https://github.com/aykutkardas/React-ZwIcon#readme"
+}
